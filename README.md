@@ -1,7 +1,13 @@
 # Experiment-08- Encoders-and-decoders 
-### AIM: To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
-### HARDWARE REQUIRED:  – PC, Cyclone II , USB flasher
-### SOFTWARE REQUIRED:   Quartus prime
+### AIM: 
+To implement 8 to 3 Encoder and  3to8 Decoder using verilog and validate its outputs
+
+### HARDWARE REQUIRED:
+– PC, Cyclone II , USB flasher
+
+### SOFTWARE REQUIRED: 
+Quartus prime
+
 ### THEORY 
 
 ## Encoders
@@ -56,6 +62,7 @@ D7 = X Y Z
 
 ## PROCEDURE:
 
+
 1.Create module encoder and decoder.
 
 2.Get inputs and outputs for encoders and decoders.
@@ -63,6 +70,7 @@ D7 = X Y Z
 3.Perform or operation for encoder and and logic for decoders.
 
 4.Perform RTL LOGIC and get waveform.
+
 
 ## ENCODER:
 ```
